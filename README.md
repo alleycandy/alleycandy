@@ -56,13 +56,17 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/alleycandy/alleycandy/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="200" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alleycandy/alleycandy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alleycandy/alleycandy/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alleycandy/alleycandy/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
