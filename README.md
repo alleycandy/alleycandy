@@ -1,3 +1,11 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="alleycandy's GitHub profile" src="dark_mode.svg" />
+</picture>
+
+###
+
 <div align="center">
   <img height="425" src="https://camo.githubusercontent.com/f9e02e7b78419b8a446932b9ea4e38368e70324cad524a666ed7e9e39f58c8a1/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39302f37302f33322f39303730333234636466633037633638643630656564306333396537373537332e676966"  />
 </div>
@@ -77,7 +85,7 @@
   <a href="https://www.instagram.com/till_now_sahil/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="sahilkumar22699629@gmail.com" target="_blank">
+  <a href="mailto:sahilkumar22699629@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
