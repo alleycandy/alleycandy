@@ -28,15 +28,7 @@
 
 ###
 
-<p align="left">
-  👋 Hi, I’m @alleycandy<br>
-  👀 I’m interested in creating websites with Python, JavaScript, Ruby, HTML, CSS, Java and collaborating with the micro:bit.<br>
-  🌱 I’m currently learning micro:bit and how they are used in life.<br>
-  💞️ I’m looking to collaborate on open source too.<br>
-  📫 How to reach me on GitHub or Gmail: alleycandy92794@gmail.com<br>
-  😄 Pronouns: Just my username: alleycandy or AC<br>
-  ⚡ Fun fact: I started coding when I was a child and I still am a child.
-</p>
+<p align="left">👋 Hi, I’m @alleycandy<br>👀 I’m interested in creating websites with Python, JavaScript, Ruby, HTML, CSS, Java and collaborating with the micro:bit.<br>🌱 I’m currently learning micro:bit and how they are used in life.<br>💞️ I’m looking to collaborate on open source too.<br>📫 How to reach me on GitHub or Gmail: alleycandy92794@gmail.com<br>😄 Pronouns: Just my username: alleycandy or AC<br>⚡ Fun fact: I started coding when I was a child and I still am a child.</p>
 
 ###
 
@@ -70,7 +62,7 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alleycandy&show_icons=true&theme=dark&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api?username=alleycandy&show_icons=true&theme=dark&hide_border=false"
     height="180"
     alt="GitHub Stats"
   />
@@ -92,17 +84,13 @@
   <a href="https://www.linkedin.com/in/sahil-kumar-a05393297/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-
   <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-
   <a href="https://www.instagram.com/till_now_sahil/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-
   <a href="mailto:sahilkumar22699629@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
