@@ -61,7 +61,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alleycandy&theme=dark&hide_border=false&border_radius=5" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alleycandy&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alleycandy&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ###
