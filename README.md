@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://gh.crafter.run/alleycandy?theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://gh.crafter.run/alleycandy?theme=light" />
-  <img alt="alleycandy's GitHub profile" src="https://gh.crafter.run/alleycandy?theme=dark" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://gh.crafter.run/alleycandy?theme=dark&v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://gh.crafter.run/alleycandy?theme=light&v=2" />
+  <img alt="alleycandy's GitHub profile" src="https://gh.crafter.run/alleycandy?theme=dark&v=2" />
 </picture>
 
 ###
